@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993960924028",
+    "firebase_url": "https://peninsula-4d062.firebaseio.com",
+    "project_id": "peninsula-4d062",
+    "storage_bucket": "peninsula-4d062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993960924028:android:1454e9aed894642bfb4af9",
+        "android_client_info": {
+          "package_name": "com.example.Peninsula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993960924028-rt2k9c5neha3gcqujn6p5fe43s0eg2i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQSJuuayVBlQY_5uaNkao4faJhj79S228"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993960924028-rt2k9c5neha3gcqujn6p5fe43s0eg2i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
